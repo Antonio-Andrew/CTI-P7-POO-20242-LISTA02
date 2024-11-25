@@ -8,8 +8,9 @@ Capítulo 5: Estrutura de repetição
 ## Como baixar o repositório
 - Abra o terminal e escreva o seguinte comando:
 ```
-git clone https://github.com/Antonio-Andrew/CTI-P7-POO-20242-LISTA02
+git clone https://github.com/usuario/nome-do-repositorio.git
 ```
+- Substitua ``https://github.com/usuario/nome-do-repositorio.git`` pela URL deste repositório
 ## Como executar o conteúdo
 - Compile o código, se necessário, usando o comando:
 ```
